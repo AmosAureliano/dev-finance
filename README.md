@@ -2,6 +2,9 @@
 
 <div align="center">
     <img src="./assets/logo.svg" alt="exemplo imagem">
+    
+<br>
+    <img src="https://github.com/rocketseat-education/maratona-discover-01/raw/main/.github/devfinances.png" alt="exemplo imagem">
 </div>
 <br>
 
@@ -33,7 +36,7 @@ Para contribuir com Dev Finance, siga estas etapas:
 4. Envie para o branch original: `git push origin <nome_do_projeto> / <local>`
 5. Crie a solicitação de pull.
 
-Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
+Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en    /github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
 <br>
 
